@@ -1,0 +1,39 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "kuma.moc3",
+		"Textures": [
+			"kuma.2048/texture_00.png"
+		],
+		"Physics": "kuma.physics3.json",
+		"DisplayInfo": "kuma.cdi3.json",
+		"Motions": {
+			"": [
+				{
+					"File": "cool.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": [
+		{
+			"Id": "HitArea",
+			"Name": ""
+		}
+	]
+}

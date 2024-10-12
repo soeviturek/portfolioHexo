@@ -1,0 +1,58 @@
+---
+title: Prices
+cover: https://res.cloudinary.com/dscnnrudb/image/upload/v1718386506/lanaoi/demo/5_oc14jv.png
+show: false
+---
+
+:::danger
+Commission Closed For 2024.
+:::
+
+# Bundles
+
+| Title                  | Price | Workload   |
+|------------------------|-------|------------|
+| Extreme Rigging Bundle | TBD   | 20-50 days |
+| Basic Rigging Bundle   | TBD   | 7-14 days  |
+
+## <u>Extreme Model Rigging</u>
+
+<table>
+    <tr>
+        <td>
+            Head & body XYZ angle movements
+        </td>
+        <td rowspan="99">
+            {% webmgif demo https://res.cloudinary.com/dscnnrudb/image/upload/w_350/v1718022823/lanaoi/extreme-Babyxiao_h4dcol.mp4 %}
+            <p style="text-align: center;"> @Babyxiao </p>
+        </td>
+    </tr>
+    <tr> <td>Smooth physics (including bouncy eyes, mouth and body physics)</td></tr>
+    <tr> <td>Facial expression tracking (angry, happy and surprised eyes)</td></tr>
+    <tr> <td>AEIOU mouth shape and mouth X tracking</td></tr>
+    <tr> <td>3 free toggle expressions</td></tr>
+    <tr> <td>Breathing</td></tr>
+    <tr> <td>{% video <iframe width="560" height="315" src="https://www.youtube.com/embed/ubpQ_jQzK7U?si=toCkdI1LoEX5I06d&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> %}</td></tr>
+</table>
+ 
+## <u>Basic Model Rigging</u>
+
+<table>
+    <tr>
+        <td>
+            Head & body XYZ angle movements
+        </td>
+        <td rowspan="99">
+            {% webmgif demo https://res.cloudinary.com/dscnnrudb/image/upload/w_350/v1718022803/lanaoi/basic-ttvrosie_scxqmr.mp4 %}
+            <p style="text-align: center;"> @ttvrosie </p>
+        </td>
+    </tr>
+    <tr> <td>Simple physics</td></tr>
+    <tr> <td>Facial expression tracking (angry, happy and surprised eyes)</td></tr>
+    <tr> <td>AEIOU mouth shape</td></tr>
+    <tr> <td>3 free toggle expressions</td></tr>
+    <tr> <td>Breathing</td></tr>
+    <tr> <td>{% video <iframe width="560" height="315" src="https://www.youtube.com/embed/zVIyjllCfPQ?si=uRlX_1p_jdIFey7L&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> %}</td></tr>
+</table>
+
+
